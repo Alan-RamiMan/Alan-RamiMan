@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alan-RamiMan
-- 👀 I’m interested in ...Data Science,Machine Learning 
+- 👀 I’m interested in ...Web development,Machine Learning 
 - 🌱 I’m currently learning ...Angular 13,Flutter,Django ,RA .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
