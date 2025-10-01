@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @Alan-RamiMan
+
+
+# A\AN  RAM|REZ
+**Ingeniero en Informatica** 
+
 - 👀 I’m interested in ...Web development,Machine Learning 
 - 🌱 I’m currently learning ...Angular 13,Flutter,Django ,RA .
 - 💞️ I’m looking to collaborate on ...
