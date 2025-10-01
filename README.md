@@ -1,7 +1,7 @@
 
 
 # A\AN  RAM|REZ
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ingeniero_en_Informática+Padre+_Estudiante_Permanente)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ingeniero+en+Informática;Padre;Estudiante+Permanente)](https://git.io/typing-svg)
 **Ingeniero en Informatica** 
 
 - 👀 I’m interested in ...Web development,Machine Learning 
